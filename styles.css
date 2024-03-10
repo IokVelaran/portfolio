@@ -27,6 +27,15 @@ a:hover {
     text-decoration: underline;
 }
 
+.question {
+    color: gold;
+}
+
+.answer {
+    color: gainsboro;
+    font-size: 14px;
+}
+
 .title {
     text-align: right;
     color: gold;
